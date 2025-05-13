@@ -1,5 +1,5 @@
 <script setup>
 if (typeof window !== 'undefined') {
-  window.location.href = '/backend/java/java基础.html';
+  window.location.href = '/project/智能备课系统.html';
 }
 </script>

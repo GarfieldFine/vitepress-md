@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 立即开始
-      link: /markdown-examples
+      link: /computer-basics/
     - theme: alt
       text: GitHub
       link: https://github.com/GarfieldFine

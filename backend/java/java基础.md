@@ -1,3 +1,5 @@
+# java基础
+
 ## Object 类的常见方法有哪些？
 
 1. `equals(Object obj)`  
