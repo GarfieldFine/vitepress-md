@@ -37,16 +37,16 @@ export default defineConfig({
         ],
         sidebar: {
             '/computer-basics/': [
-                {
-                    text: '操作系统',
-                    collapsed: false,
-                    items: set_sidebar("computer-basics/cn")
-                },
-                {
-                    text: '计算机网络',
-                    collapsed: false,
-                    items: set_sidebar("computer-basics/os")
-                },
+                // {
+                //     text: '操作系统',
+                //     collapsed: false,
+                //     items: set_sidebar("computer-basics/cn")
+                // },
+                // {
+                //     text: '计算机网络',
+                //     collapsed: false,
+                //     items: set_sidebar("computer-basics/os")
+                // },
                 {
                     text: 'linux',
                     collapsed: false,
