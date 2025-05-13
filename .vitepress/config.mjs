@@ -3,6 +3,7 @@ import {set_sidebar} from "./utils/auto-gen-sidebar.mjs";	// 改成自己的路�
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+    base: '/',
     head: [["link", { rel: "icon", href: "/public/logo.svg" }]],
     title: "嘉界",
     description: "A VitePress Site",
