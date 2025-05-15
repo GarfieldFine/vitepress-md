@@ -4,10 +4,10 @@ import {set_sidebar} from "./utils/auto-gen-sidebar.mjs";	// 改成自己的路�
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     base: '/',
-    head: [["link", { rel: "icon", href: "/logo.svg" }]],
-    title: "嘉界",
+    head: [["link", { rel: "icon", href: "/book1.svg" }]],
+    title: "Orange Ink",
     description: "A VitePress Site",
-    titleTemplate: "嘉界",
+    titleTemplate: "Orange Ink",
     themeConfig: {
         //上次更新时间 //
         lastUpdated: {
@@ -27,7 +27,7 @@ export default defineConfig({
         returnToTopLabel:'返回顶部',  // 移动端返回顶部按钮的文本
         outline: [1,3],
         outlineTitle: '文章目录',
-        logo: '/logo.svg',
+        logo: '/book1.svg',
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             {text: '计算机基础', link: '/computer-basics/'},

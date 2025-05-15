@@ -3,11 +3,11 @@
 layout: home
 
 hero:
-  name: "嘉界"
-  text: "在数字化时代"
-  tagline: 笔记或许会被遗忘，但记录思考的重要性永远不变
+  name: "Orange Ink"
+  text: "指尖敲下的字句"
+  tagline: 也许微小，却藏着穿越时间的勇气
   image:
-    src: /logo.svg
+    src: /book3.svg
     alt: 背景图片
   actions:
     - theme: brand
@@ -22,16 +22,16 @@ hero:
 
 features:
   - icon: 🧠
-    title: 简单易用
-    details: 笔记结构清晰，内容简练，方便快速理解每个知识点
+    title: 思维沉淀
+    details: 不止是记录，更是深度理解后的整理，帮助构建清晰的知识图谱。
   - icon: 🌐
-    title: 全面覆盖
-    details: 涉及前端、后端、计算机科学、算法和人工智能等多个领域，提供全面的学习资源。
+    title: 多元融合
+    details: 从技术到思维，从代码到生活，笔记跨越前端、AI 与计算机科学，灵感无界。
   - icon: 🔄
-    title: 持续更新
-    details: 笔记如四季更替，时刻保持新鲜，定期更新，紧跟科技的脚步，让知识的旅程始终与时代脉搏共振。
+    title: 与时俱进
+    details: 跟随技术演进，不断修订旧知、补充新知，让知识体系保持鲜活。
   - icon: 📚
-    title: 学习资源
-    details: 汇集学习资源，包括书籍推荐、在线课程和工具链接。
+    title: 自主学习
+    details: 分享 Garfield 亲测有效的学习路径、工具与方法，陪你走稳每一步。
 ---
 
