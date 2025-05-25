@@ -78,7 +78,7 @@ export default defineConfig({
                     text: 'es',
                     collapsed: false,
                     items: set_sidebar("backend/es")
-                },
+                }
             ],
             '/algorithm-practice/': [
                 {
