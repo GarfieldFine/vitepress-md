@@ -1,6 +1,5 @@
 import {defineConfig} from 'vitepress'
-import {set_sidebar} from "./utils/auto-gen-sidebar.mjs";	// 改成自己的路径
-
+import {set_sidebar} from "./utils/auto-gen-sidebar.mjs"; // 改成自己的路径
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     base: '/',
@@ -37,16 +36,6 @@ export default defineConfig({
         ],
         sidebar: {
             '/computer-basics/': [
-                // {
-                //     text: '操作系统',
-                //     collapsed: false,
-                //     items: set_sidebar("computer-basics/cn")
-                // },
-                // {
-                //     text: '计算机网络',
-                //     collapsed: false,
-                //     items: set_sidebar("computer-basics/os")
-                // },
                 {
                     text: 'linux',
                     collapsed: false,
@@ -124,6 +113,6 @@ export default defineConfig({
                     },
                 },
             },
-        },
+        }
     }
 })
