@@ -69,6 +69,16 @@ export default defineConfig({
                     collapsed: false,
                     items: set_sidebar("backend/redis")
                 },
+                {
+                    text: 'juc',
+                    collapsed: false,
+                    items: set_sidebar("backend/juc")
+                },
+                {
+                    text: 'es',
+                    collapsed: false,
+                    items: set_sidebar("backend/es")
+                },
             ],
             '/algorithm-practice/': [
                 {
